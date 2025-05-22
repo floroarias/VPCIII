@@ -1,8 +1,7 @@
-# VPCIII
-Trabajos de la materia VPCIII CEIA 2025
+# Visión por Computadora III
 
-2Bim 2025
+Trabajos de la materia VPCIII - CEIA - FIUBA
 
-Florentino Arias
+2 Bimestre 2025
 
-SIU a1719
+Florentino Arias - SIU a1719
